@@ -1,0 +1,88 @@
+body{
+    background: #ccc;
+    font-family: 'Raleway';
+}
+html{
+    scroll-behavior: smooth;
+    font-family: 'Raleway';
+}
+.navbar {
+    background: #1ba0db;
+}
+#Header a:hover{
+    color: #fff;
+}
+a, h1, h2, h3, h4, h5, body, ul, li, p, {
+    font-family: 'Raleway';
+}
+a{
+    font-weight: 400;
+}
+h2 {
+    font-weight: 600;
+}
+span {
+    font-weight: 500;
+}
+
+#bg-img {
+    background: url('../images/back2.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    background-position: center center;
+}
+#About {
+    margin-top: -200px;
+}
+#About .fa {
+    color: #fff;
+}
+#About span {
+    padding: 10px 20px 10px 20px;
+}
+#About hr {
+    border-width: 2px;
+    margin-top: 06px
+}
+#Skills span {
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr {
+    border-width: 2px;
+    margin-top: 6px;
+}
+#Services {
+    color: #fff;
+}
+#Services span {
+    color: green;
+}
+#Services .fa {
+    font-size: 75px;
+}
+#gallery h2 span {
+    color: rgb(240, 240, 7);
+}
+
+ #gallery img{
+    min-height: 250px;
+}
+#Contact span {
+    padding: 10px 20px 10px 20px;
+}
+#Contact hr {
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
